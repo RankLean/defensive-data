@@ -1,13 +1,13 @@
 id,status
-ang_chen_xing_2005_w11824,ok
-frazzini_pedersen_2014_bab,ok
-novy_marx_2014_w20591,ok
-bernanke_kuttner_2004_w10402,ok
-nagel_xu_2024_w32884,ok
-cotton_2022_bostonfed,ok
-carlson_2007_feds200713,ok
+ang_chen_xing_2005_w11824,cached
+frazzini_pedersen_2014_bab,cached
+novy_marx_2014_w20591,cached
+bernanke_kuttner_2004_w10402,cached
+nagel_xu_2024_w32884,cached
+cotton_2022_bostonfed,cached
+carlson_2007_feds200713,cached
 brady_report_1988,fail 404 text/html
-kwan_mertens_2020_frbsf,ok
-blau_et_al_2016_jir,ok
-vanguard_defensive_equity,"fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x743f094c2cf0>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))"
-yardeni_bear_tables,ok
+kwan_mertens_2020_frbsf,cached
+blau_et_al_2016_jir,cached
+vanguard_defensive_equity,"fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x721f466c5d30>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))"
+yardeni_bear_tables,cached
