@@ -1,0 +1,21 @@
+# one ticker per line; replace with your full list
+UNH
+ELV
+CNC
+MOH
+CI
+HUM
+CVS
+OSCR
+WM
+RSG
+COST
+WMT
+PG
+KO
+PEP
+JNJ
+ABBV
+DUK
+SO
+NEE
