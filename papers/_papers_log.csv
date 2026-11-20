@@ -9,5 +9,5 @@ carlson_2007_feds200713,cached
 brady_report_1988,fail 404 text/html
 kwan_mertens_2020_frbsf,cached
 blau_et_al_2016_jir,cached
-vanguard_defensive_equity,"fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x740b32983320>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))"
+vanguard_defensive_equity,"fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x7196e74cdd00>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))"
 yardeni_bear_tables,cached
