@@ -1,0 +1,22 @@
+name: setup
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack kit
+        run: |
+          unzip -q -o defensive-data.zip -d _tmp
+          ROOT=$(dirname "$(find _tmp -name requirements.txt | head -1)")
+          tar -C "$ROOT" --exclude=./.github -cf - . | tar -xf -
+          rm -rf _tmp defensive-data.zip
+      - name: Commit
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "unpack kit"
+          git push
