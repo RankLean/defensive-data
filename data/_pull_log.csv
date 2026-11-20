@@ -1,0 +1,73 @@
+source,status,note,at
+crash_dates,ok,"7 rows; closing levels, not intraday",2026-11-20T11:59:33+00:00
+edgar:UNH,ok,"15 items, 76 quarters",2026-11-20T11:59:34+00:00
+edgar:ELV,ok,"15 items, 76 quarters",2026-11-20T11:59:36+00:00
+edgar:CNC,ok,"13 items, 72 quarters",2026-11-20T11:59:37+00:00
+edgar:MOH,ok,"12 items, 69 quarters",2026-11-20T11:59:37+00:00
+edgar:CI,ok,"15 items, 41 quarters",2026-11-20T11:59:38+00:00
+edgar:HUM,ok,"14 items, 76 quarters",2026-11-20T11:59:39+00:00
+edgar:CVS,ok,"15 items, 79 quarters",2026-11-20T11:59:40+00:00
+edgar:OSCR,ok,"13 items, 28 quarters",2026-11-20T11:59:40+00:00
+edgar:WM,ok,"12 items, 76 quarters",2026-11-20T11:59:41+00:00
+edgar:RSG,ok,"14 items, 76 quarters",2026-11-20T11:59:41+00:00
+edgar:COST,ok,"13 items, 75 quarters",2026-11-20T11:59:42+00:00
+edgar:WMT,ok,"14 items, 74 quarters",2026-11-20T11:59:42+00:00
+edgar:PG,ok,"14 items, 75 quarters",2026-11-20T11:59:43+00:00
+edgar:KO,ok,"14 items, 76 quarters",2026-11-20T11:59:44+00:00
+edgar:PEP,ok,"14 items, 75 quarters",2026-11-20T11:59:44+00:00
+edgar:JNJ,ok,"12 items, 76 quarters",2026-11-20T11:59:45+00:00
+edgar:ABBV,ok,"14 items, 61 quarters",2026-11-20T11:59:45+00:00
+edgar:DUK,ok,"14 items, 75 quarters",2026-11-20T11:59:46+00:00
+edgar:SO,ok,"13 items, 74 quarters",2026-11-20T11:59:47+00:00
+edgar:NEE,ok,"12 items, 74 quarters",2026-11-20T11:59:48+00:00
+exposure:UNH,ok,3 annual reports,2026-11-20T11:59:49+00:00
+exposure:ELV,ok,3 annual reports,2026-11-20T11:59:52+00:00
+exposure:CNC,ok,3 annual reports,2026-11-20T11:59:53+00:00
+exposure:MOH,ok,3 annual reports,2026-11-20T11:59:55+00:00
+exposure:CI,ok,3 annual reports,2026-11-20T11:59:57+00:00
+exposure:HUM,ok,3 annual reports,2026-11-20T11:59:59+00:00
+exposure:CVS,ok,3 annual reports,2026-11-20T12:00:01+00:00
+exposure:OSCR,ok,3 annual reports,2026-11-20T12:00:02+00:00
+exposure:WM,ok,3 annual reports,2026-11-20T12:00:04+00:00
+exposure:RSG,ok,3 annual reports,2026-11-20T12:00:05+00:00
+exposure:COST,ok,3 annual reports,2026-11-20T12:00:06+00:00
+exposure:WMT,ok,3 annual reports,2026-11-20T12:00:08+00:00
+exposure:PG,ok,3 annual reports,2026-11-20T12:00:09+00:00
+exposure:KO,ok,3 annual reports,2026-11-20T12:00:11+00:00
+exposure:PEP,ok,3 annual reports,2026-11-20T12:00:12+00:00
+exposure:JNJ,ok,3 annual reports,2026-11-20T12:00:14+00:00
+exposure:ABBV,ok,3 annual reports,2026-11-20T12:00:15+00:00
+exposure:DUK,ok,3 annual reports,2026-11-20T12:00:17+00:00
+exposure:SO,ok,3 annual reports,2026-11-20T12:00:21+00:00
+exposure:NEE,ok,3 annual reports,2026-11-20T12:00:24+00:00
+fred:UMCSENT,ok,UMich consumer sentiment (monthly),2026-11-20T12:00:24+00:00
+fred:NFCI,ok,Chicago Fed financial conditions (weekly),2026-11-20T12:00:24+00:00
+fred:STLFSI4,ok,St Louis Fed financial stress (weekly),2026-11-20T12:00:24+00:00
+fred:USEPUINDXD,ok,Economic policy uncertainty (daily),2026-11-20T12:00:24+00:00
+fred:VIXCLS,ok,VIX close (daily),2026-11-20T12:00:25+00:00
+fred:BAA10Y,ok,Moody's Baa minus 10y (daily),2026-11-20T12:00:25+00:00
+cboe_pc:total,ok,to 2019-10-04,2026-11-20T12:00:25+00:00
+cboe_pc:equity,ok,to 2019-10-04,2026-11-20T12:00:25+00:00
+cboe_pc:index,ok,to 2019-10-04,2026-11-20T12:00:25+00:00
+aaii,fail,blocked or HTML; download sentiment.xls manually while logged in,2026-11-20T12:00:26+00:00
+options:UNH,ok,2026-12-18,2026-11-20T12:00:27+00:00
+options:ELV,ok,2026-12-18,2026-11-20T12:00:27+00:00
+options:CNC,ok,2026-12-18,2026-11-20T12:00:28+00:00
+options:MOH,ok,2026-12-18,2026-11-20T12:00:29+00:00
+options:CI,ok,2026-12-18,2026-11-20T12:00:30+00:00
+options:HUM,ok,2026-12-18,2026-11-20T12:00:30+00:00
+options:CVS,ok,2026-12-18,2026-11-20T12:00:31+00:00
+options:OSCR,ok,2026-12-18,2026-11-20T12:00:32+00:00
+options:WM,ok,2026-12-18,2026-11-20T12:00:33+00:00
+options:RSG,ok,2026-12-18,2026-11-20T12:00:34+00:00
+options:COST,ok,2026-12-18,2026-11-20T12:00:34+00:00
+options:WMT,ok,2026-12-18,2026-11-20T12:00:35+00:00
+options:PG,ok,2026-12-18,2026-11-20T12:00:36+00:00
+options:KO,ok,2026-12-18,2026-11-20T12:00:37+00:00
+options:PEP,ok,2026-12-18,2026-11-20T12:00:38+00:00
+options:JNJ,ok,2026-12-18,2026-11-20T12:00:39+00:00
+options:ABBV,ok,2026-12-18,2026-11-20T12:00:39+00:00
+options:DUK,ok,2026-12-18,2026-11-20T12:00:40+00:00
+options:SO,ok,2026-12-18,2026-11-20T12:00:41+00:00
+options:NEE,ok,2026-12-18,2026-11-20T12:00:42+00:00
+vol_indices,ok,1990-01-02 to 2026-11-20,2026-11-20T12:00:43+00:00

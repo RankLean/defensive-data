@@ -1,0 +1,8 @@
+index,episode,peak_date,peak_close,trough_date,trough_close,tech_led,source,drawdown
+^GSPC,crash_1987,1987-08-25,336.77,1987-12-04,223.92,False,Yardeni bull/bear tables,-0.33509516880957335
+^GSPC,dotcom,2000-03-24,1527.46,2002-10-09,776.76,True,Yardeni; crossingwallstreet,-0.4914694983829364
+^IXIC,dotcom,2000-03-10,5048.62,2002-10-09,1114.11,True,crossingwallstreet (peak); trough to confirm in data,-0.7793238548355789
+^GSPC,gfc,2007-10-09,1565.15,2009-03-09,676.53,False,Yardeni,-0.5677538894035716
+^GSPC,covid,2020-02-19,3386.15,2020-03-23,2237.4,False,Yardeni,-0.3392495902426059
+^GSPC,bear_2022,2022-01-03,4796.56,2022-10-12,3577.03,True,Yardeni; Motley Fool,-0.2542509631902864
+^IXIC,bear_2022,2021-11-19,16057.44,2022-12-28,10213.29,True,AP via KUTV (peak); Reuters (trough),-0.3639527845036319
