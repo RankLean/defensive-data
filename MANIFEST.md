@@ -1,6 +1,6 @@
 # Manifest
 
-Generated 2026-11-20 12:26 UTC
+Generated 2026-11-20 13:14 UTC
 
 | file | KB | rows | cols | first | last |
 |---|---|---|---|---|---|
@@ -30,8 +30,8 @@ Generated 2026-11-20 12:26 UTC
 ## inbox (0)
 
 ## failures in data/_pull_log.csv (1)
-- aaii | fail | blocked or HTML; download sentiment.xls manually while logged in | 2026-11-20T12:25:06+00:00
+- aaii | fail | blocked or HTML; download sentiment.xls manually while logged in | 2026-11-20T13:13:13+00:00
 
 ## failures in papers/_papers_log.csv (2)
 - brady_report_1988 | fail 404 text/html
-- vanguard_defensive_equity | fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x721f466c5d30>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))
+- vanguard_defensive_equity | fail HTTPConnectionPool(host='stat.wharton.upenn.edu', port=80): Max retries exceeded with url: /~steele/Courses/434/434Context/Momentum/VanguardDontDuck.pdf (Caused by ConnectTimeoutError(<HTTPConnection(host='stat.wharton.upenn.edu', port=80) at 0x740b32983320>, 'Connection to stat.wharton.upenn.edu timed out. (connect timeout=60)'))
