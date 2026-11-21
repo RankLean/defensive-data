@@ -34,17 +34,8 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Mode
-        id: mode
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date -u +%u)" = "5" ]; then
-            echo "full=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "full=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Your main pull (prices, fundamentals, FRED, French)
-        if: github.event_name != 'push' && steps.mode.outputs.full == 'true'
+        if: github.event_name != 'push'
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: python scripts/pull_defensive_data.py
@@ -57,11 +48,7 @@ jobs:
         run: |
           MODS="${{ github.event.inputs.modules }}"
           if [ -z "$MODS" ]; then
-            if [ "${{ steps.mode.outputs.full }}" = "true" ]; then
-              MODS="crashes,edgar,exposure,options,sentiment"
-            else
-              MODS="options"
-            fi
+            MODS="crashes,edgar,exposure,options,sentiment"
           fi
           python scripts/pull_extensions.py --tickers tickers.txt --out data --ua "$SEC_UA" --only "$MODS"
 
