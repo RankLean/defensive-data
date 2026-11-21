@@ -1,15 +1,15 @@
 # Manifest
 
-Generated 2026-11-20 13:35 UTC
+Generated 2026-11-21 02:47 UTC
 
 | file | KB | rows | cols | first | last |
 |---|---|---|---|---|---|
-| data/_pull_log.csv | 4 | 72 | 4 |  |  |
+| data/_pull_log.csv | 1 | 21 | 4 |  |  |
 | data/cboe_putcall.csv | 487 | 9759 | 8 | 2006-11-01 | 2019-10-04 |
 | data/crash_dates.csv | 0 | 7 | 9 |  |  |
 | data/edgar_facts_long.csv | 5896 | 48719 | 12 | 2006-12-30 | 2026-10-02 |
 | data/edgar_quarterly.csv | 217 | 1404 | 19 | 2006-12-30 | 2026-10-02 |
-| data/options_snapshot.csv | 2 | 20 | 12 | 2026-11-20 | 2026-11-20 |
+| data/options_snapshot.csv | 6 | 40 | 12 | 2026-11-20 | 2026-11-21 |
 | data/sentiment_fred.csv | 465 | 16391 | 7 | 1952-11-01 | 2026-11-18 |
 | data/tech_exposure_manual_TEMPLATE.csv | 0 | 20 | 7 |  |  |
 | data/tech_exposure_text.csv | 10 | 60 | 10 |  |  |
@@ -29,8 +29,7 @@ Generated 2026-11-20 13:35 UTC
 
 ## inbox (0)
 
-## failures in data/_pull_log.csv (1)
-- aaii | fail | blocked or HTML; download sentiment.xls manually while logged in | 2026-11-20T13:34:22+00:00
+## failures in data/_pull_log.csv (0)
 
 ## failures in papers/_papers_log.csv (2)
 - brady_report_1988 | fail 404 text/html
