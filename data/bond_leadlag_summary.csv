@@ -1,145 +1,145 @@
 spread_series,sector,etf,horizon_label,avg_fwd_return_pct,median_fwd_return_pct,std_fwd_return_pct,n_events
-BAA_10Y,Broad Market,SPY,12m,9.85,11.41,18.08,2577
-BAA_10Y,Broad Market,SPY,1m,1.47,2.28,5.29,2613
+BAA_10Y,Broad Market,SPY,12m,9.85,11.41,18.08,2578
+BAA_10Y,Broad Market,SPY,1m,1.47,2.28,5.29,2614
 BAA_10Y,Broad Market,SPY,3m,2.35,1.28,8.53,2613
 BAA_10Y,Broad Market,SPY,6m,4.7,3.27,11.58,2607
-BAA_10Y,Communication,XLC,12m,2.85,-0.54,12.72,2577
-BAA_10Y,Communication,XLC,1m,2.02,2.16,2.73,2613
+BAA_10Y,Communication,XLC,12m,2.85,-0.54,12.72,2578
+BAA_10Y,Communication,XLC,1m,2.02,2.16,2.73,2614
 BAA_10Y,Communication,XLC,3m,-2.07,-3.44,5.5,2613
 BAA_10Y,Communication,XLC,6m,-10.04,-13.8,10.9,2607
-BAA_10Y,Consumer Disc,XLY,12m,12.64,16.42,18.7,2577
-BAA_10Y,Consumer Disc,XLY,1m,2.27,3.68,6.52,2613
+BAA_10Y,Consumer Disc,XLY,12m,12.64,16.42,18.7,2578
+BAA_10Y,Consumer Disc,XLY,1m,2.27,3.68,6.52,2614
 BAA_10Y,Consumer Disc,XLY,3m,5.87,8.96,10.32,2613
 BAA_10Y,Consumer Disc,XLY,6m,7.43,11.31,13.3,2607
-BAA_10Y,Consumer Staples,XLP,12m,0.5,1.55,14.04,2577
-BAA_10Y,Consumer Staples,XLP,1m,-0.85,-1.36,4.57,2613
+BAA_10Y,Consumer Staples,XLP,12m,0.51,1.55,14.04,2578
+BAA_10Y,Consumer Staples,XLP,1m,-0.84,-1.35,4.57,2614
 BAA_10Y,Consumer Staples,XLP,3m,1.85,2.13,5.53,2613
 BAA_10Y,Consumer Staples,XLP,6m,-0.11,-0.81,8.86,2607
-BAA_10Y,Energy,XLE,12m,10.57,15.07,21.76,2577
-BAA_10Y,Energy,XLE,1m,-0.11,-3.02,7.56,2613
+BAA_10Y,Energy,XLE,12m,10.58,15.07,21.77,2578
+BAA_10Y,Energy,XLE,1m,-0.11,-3.02,7.56,2614
 BAA_10Y,Energy,XLE,3m,4.15,5.41,11.35,2613
 BAA_10Y,Energy,XLE,6m,10.19,15.0,15.65,2607
-BAA_10Y,Financials,XLF,12m,4.28,1.25,23.06,2577
-BAA_10Y,Financials,XLF,1m,0.71,-0.13,7.01,2613
+BAA_10Y,Financials,XLF,12m,4.28,1.25,23.06,2578
+BAA_10Y,Financials,XLF,1m,0.71,-0.13,7.0,2614
 BAA_10Y,Financials,XLF,3m,3.21,8.33,11.96,2613
 BAA_10Y,Financials,XLF,6m,4.05,7.15,15.92,2607
-BAA_10Y,Health Care,XLV,12m,11.42,16.55,13.56,2577
-BAA_10Y,Health Care,XLV,1m,2.99,4.2,5.71,2613
+BAA_10Y,Health Care,XLV,12m,11.42,16.56,13.56,2578
+BAA_10Y,Health Care,XLV,1m,2.99,4.2,5.7,2614
 BAA_10Y,Health Care,XLV,3m,5.01,6.01,8.06,2613
 BAA_10Y,Health Care,XLV,6m,6.53,9.93,9.34,2607
-BAA_10Y,Industrials,XLI,12m,12.83,21.31,19.97,2577
-BAA_10Y,Industrials,XLI,1m,1.77,2.75,6.01,2613
+BAA_10Y,Industrials,XLI,12m,12.83,21.31,19.97,2578
+BAA_10Y,Industrials,XLI,1m,1.77,2.75,6.01,2614
 BAA_10Y,Industrials,XLI,3m,3.82,6.77,9.61,2613
 BAA_10Y,Industrials,XLI,6m,11.64,13.33,16.03,2607
-BAA_10Y,Materials,XLB,12m,13.03,20.84,19.5,2577
-BAA_10Y,Materials,XLB,1m,1.81,3.23,6.35,2613
+BAA_10Y,Materials,XLB,12m,13.03,20.84,19.5,2578
+BAA_10Y,Materials,XLB,1m,1.8,3.23,6.35,2614
 BAA_10Y,Materials,XLB,3m,3.38,5.61,10.01,2613
 BAA_10Y,Materials,XLB,6m,10.68,12.21,15.76,2607
-BAA_10Y,Real Estate,XLRE,12m,6.56,6.3,6.73,2577
-BAA_10Y,Real Estate,XLRE,1m,-0.36,-0.86,3.28,2613
+BAA_10Y,Real Estate,XLRE,12m,6.57,6.3,6.73,2578
+BAA_10Y,Real Estate,XLRE,1m,-0.36,-0.86,3.28,2614
 BAA_10Y,Real Estate,XLRE,3m,1.37,0.77,4.0,2613
 BAA_10Y,Real Estate,XLRE,6m,7.36,8.12,4.91,2607
-BAA_10Y,Technology,XLK,12m,27.93,29.32,36.12,2577
-BAA_10Y,Technology,XLK,1m,4.14,5.94,8.23,2613
+BAA_10Y,Technology,XLK,12m,27.93,29.3,36.11,2578
+BAA_10Y,Technology,XLK,1m,4.14,5.93,8.23,2614
 BAA_10Y,Technology,XLK,3m,6.08,10.51,12.35,2613
 BAA_10Y,Technology,XLK,6m,10.32,15.96,17.09,2607
-BAA_10Y,Utilities,XLU,12m,3.65,-1.22,14.54,2577
-BAA_10Y,Utilities,XLU,1m,0.29,-1.57,5.07,2613
+BAA_10Y,Utilities,XLU,12m,3.65,-1.22,14.53,2578
+BAA_10Y,Utilities,XLU,1m,0.29,-1.57,5.07,2614
 BAA_10Y,Utilities,XLU,3m,-0.92,-2.19,8.36,2613
 BAA_10Y,Utilities,XLU,6m,2.35,1.28,9.13,2607
-HY_OAS,Broad Market,SPY,12m,19.7,18.2,7.54,118
-HY_OAS,Broad Market,SPY,1m,1.31,1.5,5.41,183
-HY_OAS,Broad Market,SPY,3m,7.2,7.74,7.26,162
-HY_OAS,Broad Market,SPY,6m,14.3,13.18,6.42,161
-HY_OAS,Communication,XLC,12m,17.73,21.08,12.28,118
-HY_OAS,Communication,XLC,1m,0.63,1.36,5.63,183
-HY_OAS,Communication,XLC,3m,4.61,3.1,7.05,162
-HY_OAS,Communication,XLC,6m,11.52,10.66,10.58,161
-HY_OAS,Consumer Disc,XLY,12m,13.82,12.46,10.29,118
-HY_OAS,Consumer Disc,XLY,1m,2.49,3.34,6.31,183
-HY_OAS,Consumer Disc,XLY,3m,5.56,5.21,9.18,162
-HY_OAS,Consumer Disc,XLY,6m,11.25,7.83,11.83,161
-HY_OAS,Consumer Staples,XLP,12m,8.34,7.02,5.38,118
-HY_OAS,Consumer Staples,XLP,1m,1.05,1.16,4.29,183
-HY_OAS,Consumer Staples,XLP,3m,2.84,1.84,5.24,162
-HY_OAS,Consumer Staples,XLP,6m,2.65,2.16,4.56,161
-HY_OAS,Energy,XLE,12m,27.95,33.96,21.88,118
-HY_OAS,Energy,XLE,1m,0.71,1.19,6.6,183
-HY_OAS,Energy,XLE,3m,3.9,4.09,9.92,162
-HY_OAS,Energy,XLE,6m,10.43,7.26,11.51,161
-HY_OAS,Financials,XLF,12m,12.57,12.18,8.75,118
-HY_OAS,Financials,XLF,1m,2.66,3.83,4.99,183
-HY_OAS,Financials,XLF,3m,5.54,4.14,5.94,162
-HY_OAS,Financials,XLF,6m,10.76,10.61,7.05,161
-HY_OAS,Health Care,XLV,12m,8.43,7.34,11.82,118
-HY_OAS,Health Care,XLV,1m,0.63,0.82,5.18,183
-HY_OAS,Health Care,XLV,3m,0.2,-0.14,6.63,162
-HY_OAS,Health Care,XLV,6m,3.01,1.42,7.57,161
-HY_OAS,Industrials,XLI,12m,23.82,24.57,10.11,118
-HY_OAS,Industrials,XLI,1m,1.6,1.57,5.64,183
-HY_OAS,Industrials,XLI,3m,8.52,8.72,7.81,162
-HY_OAS,Industrials,XLI,6m,12.7,13.73,6.47,161
-HY_OAS,Materials,XLB,12m,15.81,17.49,10.72,118
-HY_OAS,Materials,XLB,1m,1.56,3.16,5.26,183
-HY_OAS,Materials,XLB,3m,5.55,3.95,7.85,162
-HY_OAS,Materials,XLB,6m,7.58,5.84,6.9,161
-HY_OAS,Real Estate,XLRE,12m,7.51,5.76,5.11,118
-HY_OAS,Real Estate,XLRE,1m,1.77,1.65,4.81,183
-HY_OAS,Real Estate,XLRE,3m,4.14,3.24,5.36,162
-HY_OAS,Real Estate,XLRE,6m,5.61,4.78,5.14,161
-HY_OAS,Technology,XLK,12m,29.58,28.7,15.36,118
-HY_OAS,Technology,XLK,1m,1.19,-0.31,9.39,183
-HY_OAS,Technology,XLK,3m,13.94,13.76,16.72,162
-HY_OAS,Technology,XLK,6m,25.58,28.16,14.7,161
-HY_OAS,Utilities,XLU,12m,16.38,19.74,9.84,118
-HY_OAS,Utilities,XLU,1m,1.8,1.69,4.09,183
-HY_OAS,Utilities,XLU,3m,3.25,4.11,5.61,162
-HY_OAS,Utilities,XLU,6m,6.28,8.4,9.91,161
-IG_OAS,Broad Market,SPY,12m,19.82,17.69,7.68,102
-IG_OAS,Broad Market,SPY,1m,1.32,1.25,5.42,172
+HY_OAS,Broad Market,SPY,12m,19.71,18.2,7.65,112
+HY_OAS,Broad Market,SPY,1m,1.26,1.35,5.47,176
+HY_OAS,Broad Market,SPY,3m,7.31,8.14,7.42,154
+HY_OAS,Broad Market,SPY,6m,14.53,13.4,6.44,154
+HY_OAS,Communication,XLC,12m,17.65,20.99,12.22,112
+HY_OAS,Communication,XLC,1m,0.55,1.16,5.65,176
+HY_OAS,Communication,XLC,3m,4.65,3.1,7.16,154
+HY_OAS,Communication,XLC,6m,11.52,10.51,10.73,154
+HY_OAS,Consumer Disc,XLY,12m,13.67,12.26,10.19,112
+HY_OAS,Consumer Disc,XLY,1m,2.51,3.18,6.33,176
+HY_OAS,Consumer Disc,XLY,3m,5.56,5.3,9.34,154
+HY_OAS,Consumer Disc,XLY,6m,11.19,7.35,11.91,154
+HY_OAS,Consumer Staples,XLP,12m,8.42,6.92,5.61,112
+HY_OAS,Consumer Staples,XLP,1m,1.13,1.2,4.33,176
+HY_OAS,Consumer Staples,XLP,3m,2.92,1.84,5.24,154
+HY_OAS,Consumer Staples,XLP,6m,2.48,1.91,4.55,154
+HY_OAS,Energy,XLE,12m,28.29,34.27,21.62,112
+HY_OAS,Energy,XLE,1m,0.57,0.81,6.76,176
+HY_OAS,Energy,XLE,3m,3.68,3.99,10.02,154
+HY_OAS,Energy,XLE,6m,10.24,7.06,11.31,154
+HY_OAS,Financials,XLF,12m,12.03,11.54,8.34,112
+HY_OAS,Financials,XLF,1m,2.66,3.88,5.06,176
+HY_OAS,Financials,XLF,3m,5.58,4.14,5.96,154
+HY_OAS,Financials,XLF,6m,10.81,10.54,6.97,154
+HY_OAS,Health Care,XLV,12m,8.49,7.65,11.52,112
+HY_OAS,Health Care,XLV,1m,0.53,0.71,5.25,176
+HY_OAS,Health Care,XLV,3m,-0.05,-0.2,6.57,154
+HY_OAS,Health Care,XLV,6m,2.95,1.46,7.48,154
+HY_OAS,Industrials,XLI,12m,23.89,24.64,10.34,112
+HY_OAS,Industrials,XLI,1m,1.6,1.56,5.73,176
+HY_OAS,Industrials,XLI,3m,8.68,8.87,7.89,154
+HY_OAS,Industrials,XLI,6m,12.75,13.83,6.59,154
+HY_OAS,Materials,XLB,12m,16.14,17.55,10.75,112
+HY_OAS,Materials,XLB,1m,1.54,3.2,5.36,176
+HY_OAS,Materials,XLB,3m,5.64,3.95,7.93,154
+HY_OAS,Materials,XLB,6m,7.57,5.79,6.74,154
+HY_OAS,Real Estate,XLRE,12m,7.39,5.57,5.09,112
+HY_OAS,Real Estate,XLRE,1m,1.76,1.66,4.83,176
+HY_OAS,Real Estate,XLRE,3m,4.25,3.44,5.1,154
+HY_OAS,Real Estate,XLRE,6m,5.61,4.66,5.22,154
+HY_OAS,Technology,XLK,12m,29.82,28.7,15.42,112
+HY_OAS,Technology,XLK,1m,1.16,-0.34,9.46,176
+HY_OAS,Technology,XLK,3m,14.43,13.92,16.93,154
+HY_OAS,Technology,XLK,6m,26.45,28.44,14.43,154
+HY_OAS,Utilities,XLU,12m,16.37,19.74,9.68,112
+HY_OAS,Utilities,XLU,1m,1.87,1.73,4.1,176
+HY_OAS,Utilities,XLU,3m,3.12,4.11,5.47,154
+HY_OAS,Utilities,XLU,6m,6.16,8.35,10.05,154
+IG_OAS,Broad Market,SPY,12m,19.75,17.58,7.68,103
+IG_OAS,Broad Market,SPY,1m,1.28,1.22,5.43,173
 IG_OAS,Broad Market,SPY,3m,7.83,7.2,6.53,155
 IG_OAS,Broad Market,SPY,6m,14.76,13.18,6.3,146
-IG_OAS,Communication,XLC,12m,18.51,22.44,12.9,102
-IG_OAS,Communication,XLC,1m,0.53,0.58,5.59,172
+IG_OAS,Communication,XLC,12m,18.29,22.35,13.03,103
+IG_OAS,Communication,XLC,1m,0.52,0.57,5.58,173
 IG_OAS,Communication,XLC,3m,4.72,3.72,7.12,155
 IG_OAS,Communication,XLC,6m,11.7,12.16,11.15,146
-IG_OAS,Consumer Disc,XLY,12m,15.16,16.08,10.5,102
-IG_OAS,Consumer Disc,XLY,1m,2.46,3.12,6.42,172
+IG_OAS,Consumer Disc,XLY,12m,15.07,16.07,10.48,103
+IG_OAS,Consumer Disc,XLY,1m,2.46,3.2,6.4,173
 IG_OAS,Consumer Disc,XLY,3m,6.68,5.89,8.14,155
 IG_OAS,Consumer Disc,XLY,6m,12.79,9.9,12.17,146
-IG_OAS,Consumer Staples,XLP,12m,8.8,6.92,5.59,102
-IG_OAS,Consumer Staples,XLP,1m,0.95,1.44,4.11,172
+IG_OAS,Consumer Staples,XLP,12m,8.92,6.94,5.68,103
+IG_OAS,Consumer Staples,XLP,1m,0.95,1.44,4.1,173
 IG_OAS,Consumer Staples,XLP,3m,3.54,2.35,5.45,155
 IG_OAS,Consumer Staples,XLP,6m,2.2,1.46,4.29,146
-IG_OAS,Energy,XLE,12m,28.57,35.06,22.08,102
-IG_OAS,Energy,XLE,1m,0.24,0.48,6.57,172
+IG_OAS,Energy,XLE,12m,28.66,35.41,22.0,103
+IG_OAS,Energy,XLE,1m,0.16,0.45,6.63,173
 IG_OAS,Energy,XLE,3m,4.35,4.13,10.54,155
 IG_OAS,Energy,XLE,6m,10.25,7.57,12.37,146
-IG_OAS,Financials,XLF,12m,12.74,10.72,9.62,102
-IG_OAS,Financials,XLF,1m,2.48,3.66,4.95,172
+IG_OAS,Financials,XLF,12m,12.72,10.6,9.57,103
+IG_OAS,Financials,XLF,1m,2.46,3.65,4.94,173
 IG_OAS,Financials,XLF,3m,5.88,5.33,6.03,155
 IG_OAS,Financials,XLF,6m,11.07,11.61,7.29,146
-IG_OAS,Health Care,XLV,12m,6.31,5.37,12.24,102
-IG_OAS,Health Care,XLV,1m,0.04,0.66,4.96,172
+IG_OAS,Health Care,XLV,12m,6.45,5.41,12.25,103
+IG_OAS,Health Care,XLV,1m,0.04,0.66,4.95,173
 IG_OAS,Health Care,XLV,3m,0.43,0.25,6.57,155
 IG_OAS,Health Care,XLV,6m,2.31,0.36,7.57,146
-IG_OAS,Industrials,XLI,12m,24.42,24.64,9.92,102
-IG_OAS,Industrials,XLI,1m,1.41,1.56,5.82,172
+IG_OAS,Industrials,XLI,12m,24.3,24.6,9.96,103
+IG_OAS,Industrials,XLI,1m,1.39,1.56,5.8,173
 IG_OAS,Industrials,XLI,3m,9.01,9.42,8.35,155
 IG_OAS,Industrials,XLI,6m,12.08,13.04,6.96,146
-IG_OAS,Materials,XLB,12m,15.73,16.91,10.92,102
-IG_OAS,Materials,XLB,1m,1.32,2.9,5.3,172
+IG_OAS,Materials,XLB,12m,15.77,17.05,10.87,103
+IG_OAS,Materials,XLB,1m,1.29,2.89,5.29,173
 IG_OAS,Materials,XLB,3m,6.38,5.06,8.16,155
 IG_OAS,Materials,XLB,6m,6.5,4.87,7.49,146
-IG_OAS,Real Estate,XLRE,12m,7.46,6.17,5.15,102
-IG_OAS,Real Estate,XLRE,1m,1.43,0.88,5.0,172
+IG_OAS,Real Estate,XLRE,12m,7.49,6.31,5.13,103
+IG_OAS,Real Estate,XLRE,1m,1.42,0.87,4.99,173
 IG_OAS,Real Estate,XLRE,3m,4.41,3.54,5.93,155
 IG_OAS,Real Estate,XLRE,6m,4.95,4.65,3.58,146
-IG_OAS,Technology,XLK,12m,29.92,28.7,15.4,102
-IG_OAS,Technology,XLK,1m,1.63,0.11,9.29,172
+IG_OAS,Technology,XLK,12m,29.82,28.7,15.36,103
+IG_OAS,Technology,XLK,1m,1.56,-0.01,9.31,173
 IG_OAS,Technology,XLK,3m,15.1,13.35,16.15,155
 IG_OAS,Technology,XLK,6m,27.08,29.95,14.94,146
-IG_OAS,Utilities,XLU,12m,16.68,20.58,9.9,102
-IG_OAS,Utilities,XLU,1m,1.03,0.78,3.9,172
+IG_OAS,Utilities,XLU,12m,16.53,20.58,9.97,103
+IG_OAS,Utilities,XLU,1m,1.03,0.8,3.89,173
 IG_OAS,Utilities,XLU,3m,3.21,4.14,6.69,155
 IG_OAS,Utilities,XLU,6m,5.16,8.09,9.7,146
