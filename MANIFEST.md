@@ -1,14 +1,14 @@
 # Manifest
 
-Generated 2026-11-27 03:48 UTC
+Generated 2026-11-28 03:35 UTC
 
 | file | KB | rows | cols | first | last |
 |---|---|---|---|---|---|
 | data/_pull_log.csv | 4 | 72 | 4 |  |  |
 | data/bond_credit_metrics.csv | 2 | 20 | 13 |  |  |
 | data/bond_etf_metadata.csv | 0 | 14 | 2 |  |  |
-| data/bond_etf_prices.csv | 1359 | 7025 | 15 | 1998-12-22 | 2026-11-25 |
-| data/bond_leadlag_raw.csv | 7076 | 139140 | 8 |  |  |
+| data/bond_etf_prices.csv | 1359 | 7026 | 15 | 1998-12-22 | 2026-11-27 |
+| data/bond_leadlag_raw.csv | 7078 | 139188 | 8 |  |  |
 | data/bond_leadlag_summary.csv | 6 | 144 | 8 |  |  |
 | data/cboe_putcall.csv | 487 | 9759 | 8 | 2006-11-01 | 2019-10-04 |
 | data/crash_dates.csv | 0 | 7 | 9 |  |  |
@@ -16,18 +16,18 @@ Generated 2026-11-27 03:48 UTC
 | data/edgar_facts_long.csv | 5896 | 48719 | 12 | 2006-12-30 | 2026-10-02 |
 | data/edgar_quarterly.csv | 217 | 1404 | 19 | 2006-12-30 | 2026-10-02 |
 | data/financials_annual.csv | 51 | 95 | 78 |  |  |
-| data/fred_macro.csv | 5583 | 122802 | 4 | 1980-01-01 | 2026-11-25 |
+| data/fred_macro.csv | 5584 | 122822 | 4 | 1980-01-01 | 2026-11-27 |
 | data/french_49ind_monthly.csv | 955 | 2244 | 50 | 1970-01-01 | 1970-01-01 |
 | data/french_ff3_monthly.csv | 0 | 0 | 2 |  |  |
 | data/french_ff5_monthly.csv | 0 | 0 | 2 |  |  |
 | data/french_momentum.csv | 0 | 0 | 2 |  |  |
 | data/fundamentals_snapshot.csv | 5 | 20 | 29 |  |  |
-| data/options_snapshot.csv | 18 | 120 | 12 | 2026-11-20 | 2026-11-27 |
-| data/prices_daily.csv | 6161 | 11825 | 41 | 1980-01-02 | 2026-11-26 |
-| data/sentiment_fred.csv | 465 | 16398 | 7 | 1952-11-01 | 2026-11-25 |
+| data/options_snapshot.csv | 22 | 140 | 12 | 2026-11-20 | 2026-11-28 |
+| data/prices_daily.csv | 6102 | 11826 | 41 | 1980-01-02 | 2026-11-27 |
+| data/sentiment_fred.csv | 465 | 16399 | 7 | 1952-11-01 | 2026-11-26 |
 | data/tech_exposure_manual_TEMPLATE.csv | 0 | 20 | 7 |  |  |
 | data/tech_exposure_text.csv | 10 | 60 | 10 |  |  |
-| data/vol_indices.csv | 788 | 9297 | 7 | 1990-01-02 | 2026-11-26 |
+| data/vol_indices.csv | 788 | 9298 | 7 | 1990-01-02 | 2026-11-27 |
 
 ## papers (10)
 - ang_chen_xing_2005_w11824.pdf (346 KB)
@@ -44,7 +44,7 @@ Generated 2026-11-27 03:48 UTC
 ## inbox (0)
 
 ## failures in data/_pull_log.csv (1)
-- aaii | fail | blocked or HTML; download sentiment.xls manually while logged in | 2026-11-27T03:48:43+00:00
+- aaii | fail | blocked or HTML; download sentiment.xls manually while logged in | 2026-11-28T03:34:45+00:00
 
 ## failures in papers/_papers_log.csv (2)
 - brady_report_1988 | fail 404 text/html
